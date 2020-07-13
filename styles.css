@@ -1,0 +1,49 @@
+body{
+  background-color: #595A61;
+  padding: 100px;
+  padding-top: 30px;
+  background-image: url("https://www.transparenttextures.com/patterns/football-no-lines.png");
+
+}
+hr{
+  width: 20%;
+  border: 2px solid #C4650B;
+}
+h1{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.profile{
+
+background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
+  background-color: #3C3B3F;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  height: 470px;
+}
+.profilePic{
+  float: left;
+  padding-top: 0;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.heading{
+ color: #EFF1F5;
+ /*font-family: 'IBM Plex Sans', sans-serif;*/
+ font-family: 'Sacramento', cursive;
+ font-size: 3.6rem;
+ text-align: left;
+ padding-left: 70px;
+}
+.name{
+  color: #EFF1F5;
+  /*position: absolute;
+  right: 200px;
+  top:150px;*/
+  padding-top: -10px;
+  text-align: left;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 4rem;
+
+}
