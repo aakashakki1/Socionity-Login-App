@@ -2,6 +2,7 @@
 # check the working app i have - https://phtbz.csb.app
 # for deployment check this link - https://codesandbox.io/docs/deployment
 # dribbble profile design - https://dribbble.com/shots/4451086-Elon-Musk-User-Profile
+Please add your own Google credentials for deployment. 
 Tools and tech-
 Reactjs
 HTML
