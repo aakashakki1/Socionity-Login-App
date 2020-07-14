@@ -26,7 +26,7 @@ export default function App() {
         <div style={myStyle}>
           <h1>Socionity</h1>
           <GoogleLogin
-            clientId="926048332907-rbelehafd81a3ucedp9pmj45h8ohnmgh.apps.googleusercontent.com"
+            clientId="######################################################"
             buttonText="Login with Google"
             onSuccess={responseGoogle}
             onFailure={responseGoogle}
