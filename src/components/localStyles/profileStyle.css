@@ -12,6 +12,12 @@ h1 {
   margin-top: 20px;
   margin-bottom: 20px;
 }
+p:not(.profile) {
+  padding-top: -10px;
+  font-size: 1rem;
+  font-family: sans-serif;
+  background-color: #3c3b3f;
+}
 .profile {
   background-image: url("https://www.transparenttextures.com/patterns/gplay.png");
   background-color: #3c3b3f;
@@ -34,10 +40,28 @@ h1 {
   padding-left: 70px;
 }
 .name {
-  padding-top: -10px;
+  margin-top: 0;
+  margin-bottom: 0;
   font-size: 3.8rem;
 }
 .email {
-  padding-top: -10px;
-  font-size: 1.8rem;
+  color: #a8a8a8;
+  margin-top: 0px;
+  font-size: 1rem;
 }
+.twitter {
+  margin: 15px;
+  position: relative;
+  bottom: -40px;
+}
+.fb {
+  margin: 15px;
+  position: relative;
+  bottom: -40px;
+}
+.insta {
+  margin: 15px;
+  position: relative;
+  bottom: -40px;
+}
+
